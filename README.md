@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Grace
-- 👀 I’m interested in Python programming for data science
-- 🌱 I’m currently learning data science and data analytics
+- 👋 Hi, I’m Grace Farayola
+- 👀 A passionate data scientist, proficient in data science tools including python, SQL, excel and tableau.
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 You can each me via mail @ gracefarayola@gmail.com
+- 📫 You can reach me via mail @ gracefarayola@gmail.com
 
 <!---
 Itsmeright/Itsmeright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
